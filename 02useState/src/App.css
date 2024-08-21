@@ -1,0 +1,33 @@
+
+.main-container{
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    font-size: 18px;
+    background-color: lightseagreen;
+    width: 60%;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+.header{
+    /* border: 2px solid blue; */
+    text-align: center;
+    background-color: rgb(226, 99, 141);
+    color: #fff;
+    font-size: 22px;
+    padding: 10px;
+}
+
+button{
+    color: #fff;
+    background-color: rgb(150, 40, 150);
+    border: navajowhite;
+    outline: 0;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}

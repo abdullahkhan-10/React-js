@@ -1,0 +1,41 @@
+.header{
+    background-color: blue;
+    color: #fff;
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.header h1{
+    margin: 0;
+}
+
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0;
+}
+.btns button{
+    padding: 14px 17px;
+    margin: 0 5px;
+    font-size: 16px;
+    background-color: rgb(152, 75, 224);
+    color: #fff;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btns button:nth-child(2){
+    background-color: rgb(221, 67, 131);
+    color: #fff;
+    
+}
+
+.show-Data{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    padding: 0px 20px;
+}

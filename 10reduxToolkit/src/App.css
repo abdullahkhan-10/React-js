@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(153, 95, 207);
+    text-align: center;
+    color: #fff;
+    padding: 15px 0;
+    font-size: 20px;
+}
+h2{
+    margin: 0;
+}
+
+.body{
+    border: 2px solid rgb(80, 31, 31);
+    background-color: rgba(231, 134, 134, 0.795);
+    width: 60%;
+    height: 70vh;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.cake{
+    /* border: 2px solid blue; */
+    margin-bottom: 35px;
+    padding: 10px;
+}
+
+.ice-cream{
+    /* border: 2px solid green; */
+    margin-bottom: 35px;
+    padding: 10px;
+}

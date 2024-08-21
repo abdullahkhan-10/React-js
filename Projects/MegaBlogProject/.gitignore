@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment Variables
+VITE_MYAPPWRITE_URL = "https://cloud.appwrite.io/v1"
+# now we have appwrite url, we will nedd other things as well
+VITE_MYAPPWRITE_PROJECT_ID = "668bcf8f0012b1f73ca3"
+VITE_MYAPPWRITE_DATABASE_ID = "668bd2c8001aa39a4d61"
+VITE_MYAPPWRITE_COLLECTION_ID = "668bd2f800099646c8d0"
+VITE_MYAPPWRITE_BUCKET_ID = "668bd5410038dc1e31df"

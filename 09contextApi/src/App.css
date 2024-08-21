@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(207, 95, 114);
+    text-align: center;
+    color: #fff;
+    padding: 15px 0;
+}
+ h2{
+    margin: 0;
+}
+
+.comp-a{
+    background-color: lightsalmon;
+    padding: 10px;
+    margin: 10px;
+  }
+  .comp-b{
+    background-color: rgb(73, 194, 93);
+    padding: 10px;
+    margin: 10px;
+  }
+  .comp-c{
+    background-color: rgb(212, 103, 185);
+    padding: 10px;
+    margin: 10px;
+  }
